@@ -1,0 +1,622 @@
+[
+    {
+        "id": 1,
+        "name": "Balen",
+        "score": 0,
+        "tokens": 500,
+        "mode": "rage",
+        "date": "2025-11-21T20:33:31.625320+05:45",
+        "rank": 62,
+        "rage_rank": 15
+    },
+    {
+        "id": 2,
+        "name": "Arvind",
+        "score": 65,
+        "tokens": 1,
+        "mode": "rage",
+        "date": "2025-11-21T20:34:11.902539+05:45",
+        "rank": 58,
+        "rage_rank": 11
+    },
+    {
+        "id": 3,
+        "name": "A",
+        "score": 117,
+        "tokens": 2,
+        "mode": "rage",
+        "date": "2025-11-21T20:36:20.431656+05:45",
+        "rank": 52,
+        "rage_rank": 5
+    },
+    {
+        "id": 4,
+        "name": "ABC",
+        "score": 139,
+        "tokens": 2,
+        "mode": "rage",
+        "date": "2025-11-22T00:40:51.962549+05:45",
+        "rank": 51,
+        "rage_rank": 4
+    },
+    {
+        "id": 5,
+        "name": "123",
+        "score": 351,
+        "tokens": 6,
+        "mode": "multiplayer",
+        "date": "2025-11-22T00:42:13.722349+05:45",
+        "rank": 16,
+        "multiplayer_rank": 4
+    },
+    {
+        "id": 6,
+        "name": "123",
+        "score": 351,
+        "tokens": 6,
+        "mode": "multiplayer",
+        "date": "2025-11-22T00:42:13.747740+05:45",
+        "rank": 17,
+        "multiplayer_rank": 5
+    },
+    {
+        "id": 7,
+        "name": "11",
+        "score": 190,
+        "tokens": 1,
+        "mode": "multiplayer",
+        "date": "2025-11-22T00:43:27.023260+05:45",
+        "rank": 45,
+        "multiplayer_rank": 23
+    },
+    {
+        "id": 8,
+        "name": "12",
+        "score": 178,
+        "tokens": 1,
+        "mode": "multiplayer",
+        "date": "2025-11-22T00:43:27.058459+05:45",
+        "rank": 47,
+        "multiplayer_rank": 24
+    },
+    {
+        "id": 9,
+        "name": "123",
+        "score": 263,
+        "tokens": 2,
+        "mode": "multiplayer",
+        "date": "2025-11-22T00:58:41.832710+05:45",
+        "rank": 29,
+        "multiplayer_rank": 15
+    },
+    {
+        "id": 10,
+        "name": "123",
+        "score": 308,
+        "tokens": 4,
+        "mode": "multiplayer",
+        "date": "2025-11-22T00:58:41.859110+05:45",
+        "rank": 25,
+        "multiplayer_rank": 7
+    },
+    {
+        "id": 11,
+        "name": "111",
+        "score": 197,
+        "tokens": 1,
+        "mode": "multiplayer",
+        "date": "2025-11-22T00:59:33.137643+05:45",
+        "rank": 43,
+        "multiplayer_rank": 22
+    },
+    {
+        "id": 12,
+        "name": "111",
+        "score": 185,
+        "tokens": 3,
+        "mode": "multiplayer",
+        "date": "2025-11-22T00:59:33.166023+05:45",
+        "rank": 46,
+        "multiplayer_rank": 10
+    },
+    {
+        "id": 13,
+        "name": "a1",
+        "score": 354,
+        "tokens": 1,
+        "mode": "multiplayer",
+        "date": "2025-11-22T01:00:34.494747+05:45",
+        "rank": 15,
+        "multiplayer_rank": 21
+    },
+    {
+        "id": 14,
+        "name": "1",
+        "score": 452,
+        "tokens": 2,
+        "mode": "multiplayer",
+        "date": "2025-11-22T01:00:34.538418+05:45",
+        "rank": 8,
+        "multiplayer_rank": 11
+    },
+    {
+        "id": 15,
+        "name": "Arvind",
+        "score": 60,
+        "tokens": 0,
+        "mode": "rage",
+        "date": "2025-11-22T01:06:23.830770+05:45",
+        "rank": 59,
+        "rage_rank": 12
+    },
+    {
+        "id": 16,
+        "name": "123",
+        "score": 351,
+        "tokens": 2,
+        "mode": "multiplayer",
+        "date": "2025-11-22T01:17:35.415225+05:45",
+        "rank": 18,
+        "multiplayer_rank": 12
+    },
+    {
+        "id": 17,
+        "name": "ABC",
+        "score": 339,
+        "tokens": 0,
+        "mode": "multiplayer",
+        "date": "2025-11-22T01:17:35.452446+05:45",
+        "rank": 22,
+        "multiplayer_rank": 25
+    },
+    {
+        "id": 18,
+        "name": "awdawdawdawdawd",
+        "score": 237,
+        "tokens": 3,
+        "mode": "normal",
+        "date": "2025-11-22T01:33:06.868594+05:45",
+        "rank": 35,
+        "normal_rank": 17
+    },
+    {
+        "id": 19,
+        "name": "Arvind",
+        "score": 94,
+        "tokens": 2,
+        "mode": "rage",
+        "date": "2025-11-22T01:44:18.858012+05:45",
+        "rank": 54,
+        "rage_rank": 7
+    },
+    {
+        "id": 20,
+        "name": "123",
+        "score": 148,
+        "tokens": 2,
+        "mode": "multiplayer",
+        "date": "2025-11-22T03:06:47.069726+05:45",
+        "rank": 50,
+        "multiplayer_rank": 19
+    },
+    {
+        "id": 21,
+        "name": "abc",
+        "score": 325,
+        "tokens": 2,
+        "mode": "multiplayer",
+        "date": "2025-11-22T03:06:47.096261+05:45",
+        "rank": 23,
+        "multiplayer_rank": 13
+    },
+    {
+        "id": 22,
+        "name": "Arvind1",
+        "score": 65,
+        "tokens": 2,
+        "mode": "rage",
+        "date": "2025-11-22T03:18:41.392802+05:45",
+        "rank": 57,
+        "rage_rank": 10
+    },
+    {
+        "id": 23,
+        "name": "Arvind1",
+        "score": 250,
+        "tokens": 6,
+        "mode": "normal",
+        "date": "2025-11-22T03:22:41.416802+05:45",
+        "rank": 32,
+        "normal_rank": 16
+    },
+    {
+        "id": 24,
+        "name": "111",
+        "score": 198,
+        "tokens": 2,
+        "mode": "multiplayer",
+        "date": "2025-11-22T03:40:33.928251+05:45",
+        "rank": 41,
+        "multiplayer_rank": 18
+    },
+    {
+        "id": 25,
+        "name": "222",
+        "score": 226,
+        "tokens": 2,
+        "mode": "multiplayer",
+        "date": "2025-11-22T03:40:33.951916+05:45",
+        "rank": 37,
+        "multiplayer_rank": 16
+    },
+    {
+        "id": 26,
+        "name": "123",
+        "score": 313,
+        "tokens": 5,
+        "mode": "normal",
+        "date": "2025-11-22T03:48:27.355099+05:45",
+        "rank": 24,
+        "normal_rank": 12
+    },
+    {
+        "id": 27,
+        "name": "ARVIND",
+        "score": 197,
+        "tokens": 5,
+        "mode": "normal",
+        "date": "2025-11-22T04:37:35.472259+05:45",
+        "rank": 42,
+        "normal_rank": 19
+    },
+    {
+        "id": 28,
+        "name": "123",
+        "score": 40,
+        "tokens": 1,
+        "mode": "rage",
+        "date": "2025-11-22T04:39:11.164837+05:45",
+        "rank": 60,
+        "rage_rank": 13
+    },
+    {
+        "id": 30,
+        "name": "123",
+        "score": 857,
+        "tokens": 20,
+        "mode": "multiplayer",
+        "date": "2025-11-23T11:05:09.233849+05:45",
+        "rank": 2,
+        "multiplayer_rank": 1
+    },
+    {
+        "id": 31,
+        "name": "123",
+        "score": 373,
+        "tokens": 11,
+        "mode": "normal",
+        "date": "2025-11-23T11:08:19.184650+05:45",
+        "rank": 14,
+        "normal_rank": 8
+    },
+    {
+        "id": 32,
+        "name": "123",
+        "score": 74,
+        "tokens": 2,
+        "mode": "rage",
+        "date": "2025-11-23T14:52:20.603113+05:45",
+        "rank": 56,
+        "rage_rank": 9
+    },
+    {
+        "id": 33,
+        "name": "crow",
+        "score": 450,
+        "tokens": 13,
+        "mode": "normal",
+        "date": "2025-11-23T14:59:12.050972+05:45",
+        "rank": 9,
+        "normal_rank": 5
+    },
+    {
+        "id": 34,
+        "name": "23",
+        "score": 116,
+        "tokens": 3,
+        "mode": "rage",
+        "date": "2025-11-23T15:18:37.850164+05:45",
+        "rank": 53,
+        "rage_rank": 6
+    },
+    {
+        "id": 35,
+        "name": "1231",
+        "score": 421,
+        "tokens": 6,
+        "mode": "multiplayer",
+        "date": "2025-11-30T18:28:15.863362+05:45",
+        "rank": 11,
+        "multiplayer_rank": 3
+    },
+    {
+        "id": 36,
+        "name": "123",
+        "score": 403,
+        "tokens": 8,
+        "mode": "multiplayer",
+        "date": "2025-11-30T18:28:15.884105+05:45",
+        "rank": 12,
+        "multiplayer_rank": 2
+    },
+    {
+        "id": 37,
+        "name": "efsdtr",
+        "score": 198,
+        "tokens": 4,
+        "mode": "rage",
+        "date": "2025-12-01T20:44:33.047682+05:45",
+        "rank": 40,
+        "rage_rank": 3
+    },
+    {
+        "id": 38,
+        "name": "oiefn",
+        "score": 505,
+        "tokens": 3,
+        "mode": "multiplayer",
+        "date": "2025-12-04T16:41:32.763185+05:45",
+        "rank": 5,
+        "multiplayer_rank": 8
+    },
+    {
+        "id": 39,
+        "name": "poefnsoev",
+        "score": 481,
+        "tokens": 1,
+        "mode": "multiplayer",
+        "date": "2025-12-04T16:41:32.790831+05:45",
+        "rank": 7,
+        "multiplayer_rank": 20
+    },
+    {
+        "id": 40,
+        "name": "123",
+        "score": 92,
+        "tokens": 4,
+        "mode": "rage",
+        "date": "2025-12-04T18:54:15.126682+05:45",
+        "rank": 55,
+        "rage_rank": 8
+    },
+    {
+        "id": 41,
+        "name": "pranav",
+        "score": 1105,
+        "tokens": 38,
+        "mode": "normal",
+        "date": "2025-12-05T11:28:17.005011+05:45",
+        "rank": 1,
+        "normal_rank": 1
+    },
+    {
+        "id": 42,
+        "name": "123",
+        "score": 504,
+        "tokens": 7,
+        "mode": "normal",
+        "date": "2025-12-07T11:37:40.595535+05:45",
+        "rank": 6,
+        "normal_rank": 4
+    },
+    {
+        "id": 43,
+        "name": "123455",
+        "score": 766,
+        "tokens": 23,
+        "mode": "normal",
+        "date": "2025-12-07T12:13:10.014819+05:45",
+        "rank": 3,
+        "normal_rank": 2
+    },
+    {
+        "id": 43,
+        "name": "rtdycgy",
+        "score": 257,
+        "tokens": 7,
+        "mode": "rage",
+        "date": "2025-12-10T14:32:37.446067+05:45",
+        "rank": 31,
+        "rage_rank": 1
+    },
+    {
+        "id": 44,
+        "name": "Arvind",
+        "score": 339,
+        "tokens": 10,
+        "mode": "normal",
+        "date": "2025-12-13T02:14:04.943665+05:45",
+        "rank": 20,
+        "normal_rank": 10
+    },
+    {
+        "id": 45,
+        "name": "Arvind",
+        "score": 223,
+        "tokens": 2,
+        "mode": "multiplayer",
+        "date": "2025-12-13T02:15:26.910937+05:45",
+        "rank": 38,
+        "multiplayer_rank": 17
+    },
+    {
+        "id": 46,
+        "name": "Nakarmi",
+        "score": 229,
+        "tokens": 5,
+        "mode": "multiplayer",
+        "date": "2025-12-13T02:15:26.955739+05:45",
+        "rank": 36,
+        "multiplayer_rank": 6
+    },
+    {
+        "id": 47,
+        "name": "addada",
+        "score": 382,
+        "tokens": 10,
+        "mode": "normal",
+        "date": "2025-12-13T02:52:21.473437+05:45",
+        "rank": 13,
+        "normal_rank": 7
+    },
+    {
+        "id": 48,
+        "name": "Arvind",
+        "score": 172,
+        "tokens": 5,
+        "mode": "normal",
+        "date": "2025-12-13T03:59:05.429344+05:45",
+        "rank": 48,
+        "normal_rank": 21
+    },
+    {
+        "id": 49,
+        "name": "Arvind",
+        "score": 248,
+        "tokens": 3,
+        "mode": "multiplayer",
+        "date": "2025-12-13T04:00:10.127025+05:45",
+        "rank": 33,
+        "multiplayer_rank": 9
+    },
+    {
+        "id": 50,
+        "name": "Nakarmi",
+        "score": 266,
+        "tokens": 2,
+        "mode": "multiplayer",
+        "date": "2025-12-13T04:00:10.169253+05:45",
+        "rank": 28,
+        "multiplayer_rank": 14
+    },
+    {
+        "id": 51,
+        "name": "Arvind",
+        "score": 156,
+        "tokens": 5,
+        "mode": "normal",
+        "date": "2025-12-13T12:32:25.526101+05:45",
+        "rank": 49,
+        "normal_rank": 22
+    },
+    {
+        "id": 52,
+        "name": "sdfsdfsd",
+        "score": 296,
+        "tokens": 2,
+        "mode": "normal",
+        "date": "2025-12-19T11:04:27.009425+05:45",
+        "rank": 26,
+        "normal_rank": 13
+    },
+    {
+        "id": 53,
+        "name": "fsdfsf",
+        "score": 213,
+        "tokens": 8,
+        "mode": "normal",
+        "date": "2025-12-19T11:11:42.246328+05:45",
+        "rank": 39,
+        "normal_rank": 18
+    },
+    {
+        "id": 54,
+        "name": "sfasfasfasf",
+        "score": 350,
+        "tokens": 5,
+        "mode": "normal",
+        "date": "2025-12-19T11:15:49.083813+05:45",
+        "rank": 19,
+        "normal_rank": 9
+    },
+    {
+        "id": 55,
+        "name": "rgsgsdgsg",
+        "score": 241,
+        "tokens": 5,
+        "mode": "rage",
+        "date": "2025-12-19T11:20:59.896522+05:45",
+        "rank": 34,
+        "rage_rank": 2
+    },
+    {
+        "id": 56,
+        "name": "safasf",
+        "score": 421,
+        "tokens": 10,
+        "mode": "normal",
+        "date": "2025-12-19T11:32:22.709570+05:45",
+        "rank": 10,
+        "normal_rank": 6
+    },
+    {
+        "id": 57,
+        "name": "jhcvhv",
+        "score": 261,
+        "tokens": 8,
+        "mode": "normal",
+        "date": "2025-12-19T11:53:21.414598+05:45",
+        "rank": 30,
+        "normal_rank": 15
+    },
+    {
+        "id": 58,
+        "name": "jkjkjkjkjk",
+        "score": 760,
+        "tokens": 13,
+        "mode": "normal",
+        "date": "2025-12-19T11:59:24.151500+05:45",
+        "rank": 4,
+        "normal_rank": 3
+    },
+    {
+        "id": 59,
+        "name": "gvnfgngfn",
+        "score": 40,
+        "tokens": 1,
+        "mode": "rage",
+        "date": "2025-12-19T11:59:45.768719+05:45",
+        "rank": 61,
+        "rage_rank": 14
+    },
+    {
+        "id": 60,
+        "name": "asdasda",
+        "score": 195,
+        "tokens": 5,
+        "mode": "normal",
+        "date": "2025-12-19T12:15:44.209632+05:45",
+        "rank": 44,
+        "normal_rank": 20
+    },
+    {
+        "id": 61,
+        "name": "dcscsc",
+        "score": 277,
+        "tokens": 10,
+        "mode": "normal",
+        "date": "2025-12-19T12:20:18.410057+05:45",
+        "rank": 27,
+        "normal_rank": 14
+    },
+    {
+        "id": 62,
+        "name": "jghgc",
+        "score": 339,
+        "tokens": 4,
+        "mode": "normal",
+        "date": "2025-12-19T12:26:44.639707+05:45",
+        "rank": 21,
+        "normal_rank": 11
+    }
+]
